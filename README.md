@@ -52,10 +52,4 @@ medical-chatbot/
 
 Then visit: `http://127.0.0.1:5000`
 
-## ⚠️ Notes
-- Avoid pushing large files like model binaries or virtual environments.
-- Make sure `.gitignore` is correctly excluding unnecessary files.
 
----
-
-Feel free to contribute or extend the functionality!
